@@ -28,21 +28,9 @@ http://39.164.218.8:9901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 ,CCTV13-新闻
 http://39.164.218.8:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 ,CCTV14-少儿
-http://39.164.218.8:9901/tsfile/live/0014_1.m3u8
+http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
 #EXTINF:-1 ,CCTV15-音乐
 http://39.164.218.8:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 ,CCTV16奥林匹克
-http://39.164.218.8:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 ,优漫卡通
-http://39.164.218.8:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://39.164.218.8:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 ,北京卡通
-http://39.164.218.8:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 ,炫动卡通
-http://39.164.218.8:9901/tsfile/live/1014_1.m3u8
-#EXTINF:-1 ,嘉佳卡通
-http://39.164.218.8:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 ,湖南卫视
 http://39.164.218.8:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1 ,上海卫视
