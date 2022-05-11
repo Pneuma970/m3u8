@@ -1,79 +1,159 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1 ,CCTV-2
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1 ,CCTV-3
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 ,CCTV-4
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 ,CCTV-5
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1,CCTV-5+
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 ,CCTV-6
-http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 ,CCTV-7
-http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 ,CCTV-9
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1 ,CCTV-10
-http://39.134.65.164/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 ,CCTV-11
-http://111.40.196.9/PLTV/88888888/224/3221225496/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 ,CCTV-13
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 ,CCTV-14
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 ,CCTV-15
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 ,CCTV-16
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2012492303.m3u8
-#EXTINF:-1 ,CCTV-17
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+#EXTINF:-1 ,CCTV1-综合
+http://39.164.218.8:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 ,CCTV2-财经
+http://39.164.218.8:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,CCTV3-综艺
+http://39.164.218.8:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,CCTV4-国际
+http://39.164.218.8:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 ,CCTV5-体育
+http://39.164.218.8:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.164.218.8:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 ,CCTV6-电影
+http://39.164.218.8:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 ,CCTV7-军事
+http://39.164.218.8:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 ,CCTV8-电视剧
+http://39.164.218.8:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 ,CCTV9-纪录
+http://39.164.218.8:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 ,CCTV10-科教
+http://39.164.218.8:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,CCTV11-戏曲
+http://39.164.218.8:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 ,CCTV12-社会与法
+http://39.164.218.8:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV13-新闻
+http://39.164.218.8:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 ,CCTV14-少儿
+http://39.164.218.8:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,CCTV15-音乐
+http://39.164.218.8:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 ,CCTV16奥林匹克
+http://39.164.218.8:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 ,优漫卡通
+http://39.164.218.8:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://39.164.218.8:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 ,北京卡通
+http://39.164.218.8:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 ,炫动卡通
+http://39.164.218.8:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://39.164.218.8:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 ,湖南卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 ,江苏卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-#EXTINF:-1 ,东方卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-#EXTINF:-1 ,深圳卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-#EXTINF:-1 ,广东卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-#EXTINF:-1 ,浙江卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-#EXTINF:-1 ,北京卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-#EXTINF:-1 ,湖北卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+http://39.164.218.8:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 ,上海卫视
+http://39.164.218.8:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 ,福建东南
+http://39.164.218.8:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://39.164.218.8:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 ,广西卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-#EXTINF:-1 ,海南卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+http://39.164.218.8:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://39.164.218.8:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 ,重庆卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-#EXTINF:-1 ,四川卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-#EXTINF:-1 ,河南卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-#EXTINF:-1 ,东南卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-#EXTINF:-1 ,贵州卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-#EXTINF:-1 ,江西卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-#EXTINF:-1 ,安徽卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
-#EXTINF:-1 ,河北卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+http://39.164.218.8:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 ,山东卫视
-http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+http://39.164.218.8:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://39.164.218.8:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://39.164.218.8:9901/tsfile/live/0127_2.m3u8
+#EXTINF:-1 ,安徽卫视
+http://39.164.218.8:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://39.164.218.8:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 ,云南卫视
+http://39.164.218.8:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 ,四川卫视
+http://39.164.218.8:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://39.164.218.8:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 ,河北卫视
+http://39.164.218.8:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 ,江西卫视
+http://39.164.218.8:9901/tsfile/live/0138_2.m3u8
+#EXTINF:-1 ,天津卫视
+http://39.164.218.8:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 ,山西卫视
+http://39.164.218.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://39.164.218.8:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://39.164.218.8:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 ,新疆卫视
+http://39.164.218.8:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 ,吉林卫视
+http://39.164.218.8:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://39.164.218.8:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 ,河南国际
+http://39.164.218.8:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 ,旅游卫视
+http://39.164.218.8:9901/tsfile/live/0114_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://39.164.218.8:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://39.164.218.8:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 ,西藏卫视
+http://39.164.218.8:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 ,青海卫视
+http://39.164.218.8:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://39.164.218.8:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 ,驻马店新闻
+http://39.164.218.8:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 ,公共频道
+http://39.164.218.8:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 ,科教频道
+http://39.164.218.8:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 ,法制天地
+http://39.164.218.8:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 ,河南卫视
+http://39.164.218.8:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 ,河南都市频道
+http://39.164.218.8:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,河南民生频道
+http://39.164.218.8:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,河南法制频道
+http://39.164.218.8:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 ,河南电视剧频道
+http://39.164.218.8:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 ,河南新闻频道
+http://39.164.218.8:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 ,欢腾购物
+http://39.164.218.8:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 ,河南公共频道
+http://39.164.218.8:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 ,河南新农村频道
+http://39.164.218.8:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 ,移动戏曲
+http://39.164.218.8:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 ,文物频道
+http://39.164.218.8:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 ,梨园频道
+http://39.164.218.8:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 ,武术世界
+http://39.164.218.8:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 ,老故事
+http://39.164.218.8:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 ,百姓调解
+http://39.164.218.8:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 ,中国教育
+http://39.164.218.8:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 ,郑州新闻综合
+http://39.164.218.8:9901/tsfile/live/1048_1.m3u8
+#EXTINF:-1 ,郑州商都频道
+http://39.164.218.8:9901/tsfile/live/1049_1.m3u8
+#EXTINF:-1 ,郑州文体频道
+http://39.164.218.8:9901/tsfile/live/1050_1.m3u8
+#EXTINF:-1 ,郑州影视戏曲
+http://39.164.218.8:9901/tsfile/live/1051_1.m3u8
+#EXTINF:-1 ,郑州妇女儿童
+http://39.164.218.8:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 ,郑州都市频道
+http://39.164.218.8:9901/tsfile/live/1053_1.m3u8
