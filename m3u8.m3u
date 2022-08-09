@@ -26,7 +26,7 @@ http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 ,CCTV12-社会与法
 http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 ,CCTV13-新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 ,CCTV14-少儿
 http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8
 #EXTINF:-1 ,湖南卫视
