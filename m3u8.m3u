@@ -20,11 +20,11 @@ http://183.207.248.12/PLTV/3/224/3221227204/index.m3u8
 #EXTINF:-1 ,CCTV9-纪录
 http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 ,CCTV10-科教
-http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
 #EXTINF:-1 ,CCTV11-戏曲
-http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 #EXTINF:-1 ,CCTV12-社会与法
-http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+http://120.253.104.16:808/hls/135/index.m3u8
 #EXTINF:-1 ,CCTV13-新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 ,CCTV14-少儿
