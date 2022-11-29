@@ -11,14 +11,6 @@ http://yfsl.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
 http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
 #EXTINF:-1 ,CCTV5+HD
 http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_6000.m3u8
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育频道",五星体育(1)
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育频道",五星体育(2)
-http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育
-http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育（备）
-http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 ,CCTV6HD
 http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_6000.m3u8
 #EXTINF:-1 ,CCTV7HD
@@ -41,6 +33,10 @@ http://yfsl.vsd.gehua.net.cn/live/CCTV15HD_6000.m3u8
 http://yfsl.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8
 #EXTINF:-1 ,CCTV17HD
 http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
+#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育频道",五星体育
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育
+http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 ,劲爆体育
 http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
 #EXTINF:-1 ,浙江卫视
