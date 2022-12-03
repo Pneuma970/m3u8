@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-01HD
+#EXTINF:-1 ,CCTV-01
 http://218.29.55.44:808/hls/1/index.m3u8
-#EXTINF:-1 ,CCTV-02HD
+#EXTINF:-1 ,CCTV-02
 http://218.29.55.44:808/hls/2/index.m3u8
-#EXTINF:-1 ,CCTV-03HD
+#EXTINF:-1 ,CCTV-03
 http://218.29.55.44:808/hls/3/index.m3u8
-#EXTINF:-1 ,CCTV-04HD
+#EXTINF:-1 ,CCTV-04
 http://218.29.55.44:808/hls/4/index.m3u8
-#EXTINF:-1 ,CCTV-05HD
+#EXTINF:-1 ,CCTV-05
 http://218.29.55.44:808/hls/5/index.m3u8
-#EXTINF:-1 ,CCTV-06HD
+#EXTINF:-1 ,CCTV-06
 http://218.29.55.44:808/hls/6/index.m3u8
-#EXTINF:-1 ,CCTV-07HD
+#EXTINF:-1 ,CCTV-07
 http://218.29.55.44:808/hls/7/index.m3u8
-#EXTINF:-1 ,CCTV-08HD
+#EXTINF:-1 ,CCTV-08
 http://218.29.55.44:808/hls/8/index.m3u8
-#EXTINF:-1 ,CCTV-09HD
+#EXTINF:-1 ,CCTV-09
 http://218.29.55.44:808/hls/9/index.m3u8
-#EXTINF:-1 ,CCTV-10HD
+#EXTINF:-1 ,CCTV-10
 http://218.29.55.44:808/hls/10/index.m3u8
-#EXTINF:-1 ,CCTV-11HD
+#EXTINF:-1 ,CCTV-11
 http://218.29.55.44:808/hls/11/index.m3u8
-#EXTINF:-1 ,CCTV-12HD
+#EXTINF:-1 ,CCTV-12
 http://218.29.55.44:808/hls/12/index.m3u8
 #EXTINF:-1 ,CCTV-13-新闻
 http://218.29.55.44:808/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-13-新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 ,CCTV-14HD
+#EXTINF:-1 ,CCTV-14
 http://218.29.55.44:808/hls/14/index.m3u8
-#EXTINF:-1 ,CCTV-15HD
+#EXTINF:-1 ,CCTV-15
 http://218.29.55.44:808/hls/24/index.m3u8
-#EXTINF:-1 ,CCTV-16HD
+#EXTINF:-1 ,CCTV-16
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8?世界杯WorldCup
 #EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育频道",五星体育
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
