@@ -1,48 +1,179 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 ,Unknown_1
-http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,Unknown_2
-http://113.138.241.10:8089/hls/12/index.m3u8
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,Unknown_3
-http://113.138.241.10:8089/hls/40/index.m3u8
+http://183.204.192.173/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,Unknown_4
-http://113.138.241.10:8089/hls/23/index.m3u8
+http://223.109.123.11/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,Unknown_5
-http://113.138.241.10:8089/hls/41/index.m3u8
-#EXTINF:-1 ,Unknown_6
-http://113.138.241.10:8089/hls/10/index.m3u8
-#EXTINF:-1 ,Unknown_7
-http://113.138.241.10:8089/hls/35/index.m3u8
-#EXTINF:-1 ,Unknown_8
-http://113.138.241.10:8089/hls/4/index.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,Unknown_9
-http://113.138.241.10:8089/hls/18/index.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 ,Unknown_10
-http://113.138.241.10:8089/hls/7/index.m3u8
-#EXTINF:-1 ,Unknown_11
-http://113.138.241.10:8089/hls/14/index.m3u8
-#EXTINF:-1 ,Unknown_12
-http://113.138.241.10:8089/hls/38/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 ,Unknown_13
-http://113.138.241.10:8089/hls/19/index.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 ,Unknown_14
-http://113.138.241.10:8089/hls/39/index.m3u8
+http://113.117.74.7:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_15
-http://113.138.241.10:8089/hls/13/index.m3u8
+http://113.117.74.6:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_16
-http://113.138.241.10:8089/hls/22/index.m3u8
+http://113.117.74.9:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_17
-http://113.138.241.10:8089/hls/37/index.m3u8
+http://113.117.74.11:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_18
-http://113.138.241.10:8089/hls/9/index.m3u8
+http://113.117.74.12:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_19
-http://113.138.241.10:8089/hls/5/index.m3u8
+http://113.117.74.8:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_20
-http://113.138.241.10:8089/hls/15/index.m3u8
+http://113.117.74.10:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_21
-http://113.138.241.10:8089/hls/31/index.m3u8
+http://113.117.74.13:808/hls/1/index.m3u8
 #EXTINF:-1 ,Unknown_22
-http://113.138.241.10:8089/hls/6/index.m3u8
+http://113.117.74.14:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_23
+http://113.117.74.15:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_24
+http://113.117.74.16:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_25
+http://113.117.74.18:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_26
+http://113.117.74.19:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_27
+http://113.117.74.17:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_28
+http://113.117.74.37:808/hls/1/index.m3u8
+#EXTINF:-1 ,Unknown_29
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,Unknown_30
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,Unknown_31
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,Unknown_32
+http://39.134.115.163:8080/TVOD/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 ,Unknown_33
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
+#EXTINF:-1 ,Unknown_34
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/2300.m3u8
+#EXTINF:-1 ,Unknown_35
+http://111.59.189.40:8445/tsfile/live/0113_1.m3u8
+#EXTINF:-1 ,Unknown_36
+http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 ,Unknown_37
+http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,Unknown_38
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 ,Unknown_39
+http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 ,Unknown_40
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 ,Unknown_41
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 ,Unknown_42
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_43
+http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 ,Unknown_44
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_45
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_46
+http://39.135.138.58:18890/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 ,Unknown_47
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?
+#EXTINF:-1 ,Unknown_48
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_49
+http://182.151.211.171:808/hls/18/index.m3u8
+#EXTINF:-1 ,Unknown_50
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,Unknown_51
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 ,Unknown_52
+http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_54
+http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,Unknown_55
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+#EXTINF:-1 ,Unknown_56
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8
+#EXTINF:-1 ,Unknown_57
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 ,Unknown_58
+http://jwplay.hebyun.com.cn/live/cctv4/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,Unknown_59
+http://jwplay.hebyun.com.cn/live/cctv7/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,Unknown_60
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 ,Unknown_61
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,Unknown_72
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+#EXTINF:-1 ,Unknown_75
+http://60.10.167.88:808/hls/14/index.m3u8
+#EXTINF:-1 ,Unknown_76
+http://222.132.191.125:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,Unknown_78
+http://60.10.167.88:808/hls/15/index.m3u8
+#EXTINF:-1 ,Unknown_81
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+#EXTINF:-1 ,Unknown_82
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,Unknown_83
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 ,Unknown_84
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,Unknown_85
+http://live.cgtn.com/1000/prog_index.m3u8?$全网标清576P
+#EXTINF:-1 ,Unknown_86
+https://cdn.hklive.tv/xxxx/34/index.m3u8
+#EXTINF:-1 ,Unknown_87
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网标清576P
+#EXTINF:-1 ,Unknown_88
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,Unknown_89
+http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_90
+http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_91
+http://111.177.34.74/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_92
+http://111.177.34.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_93
+http://111.177.34.68/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_94
+http://111.177.34.67/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_95
+http://111.177.34.69/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_96
+http://111.177.34.66/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_97
+http://115.231.128.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_98
+http://115.231.128.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_99
+http://115.231.128.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_100
+http://115.231.128.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_101
+http://120.220.38.30/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_102
+http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_103
+http://120.220.38.28/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_104
+http://120.220.38.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_105
+http://120.220.38.29/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_106
+http://120.220.38.27/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_107
+http://124.132.156.25/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 ,Unknown_108
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,CCTV1HD
 http://yfsl.vsd.gehua.net.cn/live/CCTV1HD_6000.m3u8
 #EXTINF:-1 ,CCTV2HD
