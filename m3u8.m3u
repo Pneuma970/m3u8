@@ -33,10 +33,6 @@ http://218.29.55.44:808/hls/14/index.m3u8
 http://218.29.55.44:808/hls/24/index.m3u8
 #EXTINF:-1 ,CCTV-16
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8?世界杯WorldCup
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" group-title="体育频道",五星体育
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.niupic.com/images/2022/11/25/ab2v.png" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育
-http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://218.29.55.44:808/hls/53/index.m3u8
 #EXTINF:-1 ,河南卫视
