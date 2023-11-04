@@ -1,46 +1,76 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-01
-http://111.40.196.32:443/PLTV/88888888/224/3221225548/1.m3u8
+http://mqiptv.com:8014/ch/cctv1/mqlive.m3u8
 #EXTINF:-1 ,CCTV-02
-http://111.40.196.33:443/PLTV/88888888/224/3221225488/1.m3u8
+http://mqiptv.com:8014/ch/cctv2/mqlive.m3u8
 #EXTINF:-1 ,CCTV-03
-http://111.40.196.32:443/PLTV/88888888/224/3221225588/1.m3u8
+http://mqiptv.com:8014/ch/cctv3/mqlive.m3u8
 #EXTINF:-1 ,CCTV-04
-http://111.40.196.32:443/PLTV/88888888/224/3221225490/1.m3u8
+http://mqiptv.com:8014/ch/cctv4/mqlive.m3u8
 #EXTINF:-1 ,CCTV-05
-http://111.40.196.32:443/PLTV/88888888/224/3221225550/1.m3u8
+http://mqiptv.com:8014/ch/cctv5/mqlive.m3u8
+#EXTINF:-1 ,CCTV-05+
+http://mqiptv.com:8014/ch/cctv5p/mqlive.m3u8
 #EXTINF:-1 ,五星体育
 http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 ,CCTV-06
-http://111.40.196.33:443/PLTV/88888888/224/3221225590/1.m3u8
+http://mqiptv.com:8014/ch/cctv6/mqlive.m3u8
+#EXTINF:-1 ,CCTV-07
+http://mqiptv.com:8014/ch/cctv7/mqlive.m3u8
 #EXTINF:-1 ,CCTV-08
-http://111.40.196.32:443/PLTV/88888888/224/3221225592/1.m3u8
+http://mqiptv.com:8014/ch/cctv8/mqlive.m3u8
+#EXTINF:-1 ,CCTV-09
+http://mqiptv.com:8014/ch/cctv9/mqlive.m3u8
 #EXTINF:-1 ,CCTV-10
-http://111.40.196.32:443/PLTV/88888888/224/3221225494/1.m3u8
+http://mqiptv.com:8014/ch/cctv10/mqlive.m3u8
+#EXTINF:-1 ,CCTV-11
+http://mqiptv.com:8014/ch/cctv11/mqlive.m3u8
+#EXTINF:-1 ,CCTV-12
+http://mqiptv.com:8014/ch/cctv12/mqlive.m3u8
 #EXTINF:-1 ,CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 ,CCTV-14
-http://111.40.196.33:443/PLTV/88888888/224/3221225506/1.m3u8
+http://mqiptv.com:8014/ch/cctv14/mqlive.m3u8
+#EXTINF:-1 ,CCTV-15
+http://mqiptv.com:8014/ch/cctv15/mqlive.m3u8
+#EXTINF:-1 ,CCTV-16
+http://mqiptv.com:8014/ch/cctv16/mqlive.m3u8
+#EXTINF:-1 ,CCTV-17
+http://mqiptv.com:8014/ch/cctv17/mqlive.m3u8
+#EXTINF:-1 ,湖南卫视
+http://mqiptv.com:8014/ch/hunanws/mqlive.m3u8
 #EXTINF:-1 ,江苏卫视
-http://111.40.196.32:443/PLTV/88888888/224/3221225578/1.m3u8
+http://mqiptv.com:8014/ch/jsws/mqlive.m3u8
 #EXTINF:-1 ,广东卫视
-http://111.40.196.32:443/PLTV/88888888/224/3221225508/1.m3u8
+http://mqiptv.com:8014/ch/gdws/mqlive.m3u8
 #EXTINF:-1 ,浙江卫视
-http://111.40.196.33:443/PLTV/88888888/224/3221225538/1.m3u8
+http://mqiptv.com:8014/ch/zjws/mqlive.m3u8
+#EXTINF:-1 ,东方卫视
+http://mqiptv.com:8014/ch/dfws/mqlive.m3u8
+#EXTINF:-1 ,重庆卫视
+http://mqiptv.com:8014/ch/cqws/mqlive.m3u8
 #EXTINF:-1 ,东南卫视
-http://111.40.196.33:443/PLTV/88888888/224/3221225516/1.m3u8
+http://mqiptv.com:8014/ch/dnws/mqlive.m3u8
 #EXTINF:-1 ,安徽卫视
-http://111.40.196.33:443/PLTV/88888888/224/3221225551/1.m3u8
+http://mqiptv.com:8014/ch/cctv1/mqlive.m3u8
+#EXTINF:-1 ,湖北卫视
+http://mqiptv.com:8014/ch/hbws/mqlive.m3u8
+#EXTINF:-1 ,江西卫视
+http://mqiptv.com:8014/ch/jxws/mqlive.m3u8
+#EXTINF:-1 ,河南卫视
+http://mqiptv.com:8014/ch/hnws/mqlive.m3u8
 #EXTINF:-1 ,河北卫视
-http://111.40.196.33:443/PLTV/88888888/224/3221225564/1.m3u8
+http://mqiptv.com:8014/ch/hebeiws/mqlive.m3u8
 #EXTINF:-1 ,辽宁卫视
 http://111.40.196.32:443/PLTV/88888888/224/3221225558/1.m3u8
 #EXTINF:-1 ,北京卫视
-http://111.40.196.32:443/PLTV/88888888/224/3221225540/1.m3u8
+http://mqiptv.com:8014/ch/bjws/mqlive.m3u8
 #EXTINF:-1 ,黑龙江卫视
-http://111.40.196.33:443/PLTV/88888888/224/3221225544/1.m3u8
+http://mqiptv.com:8014/ch/hljws/mqlive.m3u8
 #EXTINF:-1 ,天津卫视
-http://111.40.196.32:443/PLTV/88888888/224/3221225597/1.m3u8
+http://mqiptv.com:8014/ch/tjws/mqlive.m3u8
+#EXTINF:-1 ,四川卫视
+http://mqiptv.com:8014/ch/scws/mqlive.m3u8
 #EXTINF:-1 ,家庭剧场
 http://111.40.196.33:443/PLTV/88888888/224/3221225626/1.m3u8
 #EXTINF:-1 ,精品记录
